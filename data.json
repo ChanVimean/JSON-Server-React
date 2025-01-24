@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Spirited Away",
+      "genre": "Fantasy, Adventure",
+      "date_release": "2001-07-20",
+      "time_play": "125 minutes",
+      "image": "https://example.com/spirited-away.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Your Name",
+      "genre": "Romance, Drama, Fantasy",
+      "date_release": "2016-08-26",
+      "time_play": "106 minutes",
+      "image": "https://example.com/your-name.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Demon Slayer: Mugen Train",
+      "genre": "Action, Adventure, Fantasy",
+      "date_release": "2020-10-16",
+      "time_play": "117 minutes",
+      "image": "https://example.com/demon-slayer-mugen-train.jpg"
+    },
+    {
+      "id": 4,
+      "name": "A Silent Voice",
+      "genre": "Drama, Romance",
+      "date_release": "2016-09-17",
+      "time_play": "130 minutes",
+      "image": "https://example.com/a-silent-voice.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Garden of Words",
+      "genre": "Romance, Drama",
+      "date_release": "2013-05-31",
+      "time_play": "46 minutes",
+      "image": "https://example.com/the-garden-of-words.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Princess Mononoke",
+      "genre": "Fantasy, Adventure",
+      "date_release": "1997-07-12",
+      "time_play": "134 minutes",
+      "image": "https://example.com/princess-mononoke.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Weathering With You",
+      "genre": "Romance, Fantasy, Drama",
+      "date_release": "2019-07-19",
+      "time_play": "112 minutes",
+      "image": "https://example.com/weathering-with-you.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Tale of the Princess Kaguya",
+      "genre": "Drama, Fantasy",
+      "date_release": "2013-11-23",
+      "time_play": "137 minutes",
+      "image": "https://example.com/princess-kaguya.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ne Zha",
+      "genre": "Fantasy, Action, Adventure",
+      "date_release": "2019-07-26",
+      "time_play": "110 minutes",
+      "image": "https://example.com/ne-zha.jpg"
+    },
+    {
+      "id": 10,
+      "name": "White Snake",
+      "genre": "Fantasy, Romance, Adventure",
+      "date_release": "2019-01-11",
+      "time_play": "99 minutes",
+      "image": "https://example.com/white-snake.jpg"
+    }
+  ]
+}
